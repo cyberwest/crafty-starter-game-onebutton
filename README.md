@@ -1,6 +1,6 @@
 # HTML5 Game Jam with CraftyJS
 
-This is a starter pack for 'one button' games.
+This is a starter pack for 'one button' games. You can play it [here](http://mindcandy.github.com/crafty-starter-game-onebutton/).
 
 To run this project, open index.html in a web browser.
 
